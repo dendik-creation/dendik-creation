@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dendik-creation&label=Profile%20views&color=f59b00&style=flat" alt="dendik-creation" /> </p>
 
-- 🌱 I’m currently learning **Power Builder, Oracle, PostgreSql**
+- 🌱 I’m currently learning **Framer Motion, Next Js 14**
 
 - 👯 I’m looking to collaborate on [Pilih Dhewe](https://github.com/dendik-creation/pilihdhewe-apps-laravel)
 
