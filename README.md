@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" width="100%">
+<img src="https://preview.redd.it/i-developed-a-new-game-development-course-on-javascript-v0-i4a4mxqet7xb1.gif?width=750&auto=webp&s=bc0c6b010fce3b416a2b2b5b8bfa7ebbabb98ccd" width="100%">
 <h1 align="center">Hi 👋, I'm Dendi' Setiawan</h1>
 <h3 align="center">Someone with high enthusiasm for developing an application 🔥</h3>
 
