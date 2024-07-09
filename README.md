@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<img align="right" height="540" src="https://preview.redd.it/i-developed-a-new-game-development-course-on-javascript-v0-i4a4mxqet7xb1.gif?width=750&auto=webp&s=bc0c6b010fce3b416a2b2b5b8bfa7ebbabb98ccd"  />
+<div align="center">
+  <img height="420" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif"  />
+</div>
 
 ###
 
