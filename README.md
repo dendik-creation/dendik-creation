@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dendi' Setiawan and I'm a Fullstack Developer, from Indonesia</h2>
+<h2 align="left">Hello World 🌏, I'm Dendi' Setiawan from Indonesia</h2>
 
 ###
 
@@ -12,8 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dendik-creation&theme=material&area=true&hide_border=true&hide_title=true&radius=15" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dendik-creation&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dendik-creation&theme=onedark&no-frame=true&no-bg=true&row=1&column=3&margin-w=5&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dendik-creation&theme=onedark&no-frame=true&no-bg=true&row=1&column=5&margin-w=5&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
