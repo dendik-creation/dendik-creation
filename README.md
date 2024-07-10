@@ -5,14 +5,13 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://preview.redd.it/i-developed-a-new-game-development-course-on-javascript-v0-i4a4mxqet7xb1.gif?width=750&auto=webp&s=bc0c6b010fce3b416a2b2b5b8bfa7ebbabb98ccd"  />
+  <img height="" src="https://github.com/dendik-creation/dendik-creation/blob/main/assets/minecraft_banner.gif?raw=true"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dendik-creation&theme=material&area=true&hide_border=true&hide_title=true&radius=15" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dendik-creation&theme=onedark&no-frame=true&no-bg=true&row=1&column=5&margin-w=5&margin-h=0" height="150" alt="trophy graph"  />
+  <h1 align="center">🛠</h1>
 </div>
 
 ###
