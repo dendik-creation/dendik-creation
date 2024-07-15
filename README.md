@@ -1,22 +1,22 @@
-<h2 align="left">Hello World 🌏, I'm Dendi' Setiawan from Indonesia</h2>
+<h1 align="left">🌏 Hello World, Dendi' Setiawan is Here</h1>
+
+###
+
+<h2 align="left">⏳ Short Journey</h2>
+
+###
+
+<p align="left">📍 What started as curiosity about programming became a lifelong contract with him.<br>🔑From HTML to Fullstack Developer.<br>🔒 Critical thinking, in-depth analysis, problem solving, innovation are valuable to me.</p>
+
+###
+
+<h2 align="left">🛠 Current Equipment</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="" src="https://github.com/dendik-creation/dendik-creation/blob/main/assets/minecraft_banner.gif?raw=true"  />
-</div>
-
-###
-
-<div align="center">
-  <h1 align="center">🛠</h1>
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -78,34 +78,44 @@
 
 ###
 
+<h2 align="left">🎯 Snake Activity</h2>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dendik-creation/dendik-creation/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
+<h2 align="left">🤙 Find Me ??</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+###
+
+<div align="left">
+  <a href="https://instagram.com/dendik_542" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=D&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/dendi-setiawan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=E&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/21011492/dendi-2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=N&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
   <a href="https://youtube.com/@dendi_2927?si=vTKyrvjwN66HX4Y3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=D&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://ko-fi.com/dendik_2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=I&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dendik-creation/count.svg?"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dendik-creation.dendik-creation&left_text=Profile%20Views"  />
 </div>
 
 ###
