@@ -41,6 +41,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="django logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -65,20 +67,18 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="flutter logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
 </div>
 
 ###
 
-<h2 align="left">🎯 Snake Activity</h2>
+<h2 align="left">🎯 Latest Activity</h2>
 
 ###
 
