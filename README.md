@@ -82,33 +82,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/dendik-creation/dendik-creation/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">🤙 Find Me ??</h2>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/dendik_542" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=D&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dendi-setiawan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21011492/dendi-2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=N&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://youtube.com/@dendi_2927?si=vTKyrvjwN66HX4Y3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=D&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://ko-fi.com/dendik_2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=I&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
-  </a>
-</div>
 
 ###
 
