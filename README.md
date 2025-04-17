@@ -1,93 +1,47 @@
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+<img src="https://camo.githubusercontent.com/8580bf2fee46beb219b0f1e6e16572accc9f03d4ac4c2829862496983b912a4d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f37612f62392f65313761623936383162656333363330336136376364306531336137623137302e676966" width="100%"/>
 
-<h1 align="left">🌏 Hello World, I'm Dendi' Setiawan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Dendi'+Setiawan%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%98%81;Let's+Connect%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<h2 align="left">⏳ Short Journey</h2>
+### 🧭 About Me
 
-###
+- 💡 What began as a curiosity has evolved into a lifelong journey in programming.
+- 🧠 I enjoy dissecting complex problems and transforming them into elegant solutions.
+- 🔁 From HTML tweaks to building scalable fullstack applications.
+- ⚙️ Passionate about critical thinking, deep analysis, and continuous innovation.
 
-<p align="left">📍 What started as curiosity about programming became a lifelong contract with him.<br>🔑From HTML to Fullstack Developer.<br>🔒 Critical thinking, in-depth analysis, problem solving, innovation are valuable to me.</p>
+---
 
-###
-
-<h2 align="left">🛠 Current Equipment</h2>
-
-###
-
-<br clear="both">
+### 🧰 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="django logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="flutter logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,html,css,tailwind,bootstrap,py,django,php,laravel,dart,flutter,nodejs,mysql,postgres,git,github,vscode,figma,postman,aws,ai,ps" />
 </div>
 
-###
+---
 
-<h2 align="left">🎯 Latest Activity</h2>
+### 📌 Currently Exploring
 
-###
+- 🚀 DevOps & scalable deployment on AWS  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dendik-creation&show_icons=true&theme=radical&hide_border=true" alt="Dendi' GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendik-creation&layout=compact&theme=radical&hide_border=true" alt="Dendi' Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=dendik-creation&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dendik-creation.dendik-creation&left_text=Profile%20Views" />
+</p>
+
+---
+
+### 🧱 Latest GitHub Activity
 
 <img src="https://raw.githubusercontent.com/dendik-creation/dendik-creation/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dendik-creation.dendik-creation&left_text=Profile%20Views"  />
-</div>
