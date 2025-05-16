@@ -21,7 +21,7 @@
 
 ### 📌 Currently Exploring
 
-- 🚀 DevOps & scalable deployment on AWS  
+- 🚀 Dokcer & Linux
 
 ---
 
