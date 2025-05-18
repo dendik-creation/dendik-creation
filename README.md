@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/8580bf2fee46beb219b0f1e6e16572accc9f03d4ac4c2829862496983b912a4d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f37612f62392f65313761623936383162656333363330336136376364306531336137623137302e676966" width="100%"/>
+<img src="assets/githUb.jpeg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Dendi'+Setiawan%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%98%81;Let's+Connect%F0%9F%A4%9D)](https://git.io/typing-svg)
 
