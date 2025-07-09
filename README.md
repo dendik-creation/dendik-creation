@@ -21,7 +21,7 @@
 
 ### 📌 Currently Exploring
 
-- 🚀 Dokcer & Linux
+- 🚀 Golang
 
 ---
 
