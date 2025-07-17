@@ -1,4 +1,4 @@
-<img src="assets/githUb.jpeg" width="100%"/>
+<img src="assets/keyboard_banner.png" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Dendi'+Setiawan%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%98%81;Let's+Connect%F0%9F%A4%9D)](https://git.io/typing-svg)
 
