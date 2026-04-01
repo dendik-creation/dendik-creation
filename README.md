@@ -1,47 +1,40 @@
-<img src="assets/keyboard_banner.png" width="100%"/>
+# Dendi' Creation
+Just developer not anything😁
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Dendi'+Setiawan%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%98%81;Let's+Connect%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-### 🧭 About Me
-
-- 💡 What began as a curiosity has evolved into a lifelong journey in programming.
-- 🧠 I enjoy dissecting complex problems and transforming them into elegant solutions.
-- 🔁 From HTML tweaks to building scalable fullstack applications.
-- ⚙️ Passionate about critical thinking, deep analysis, and continuous innovation.
+I build applications for the web and explore system-level programming. My focus is on creating functional tools, optimizing workflows, and understanding how things work under the hood.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Core Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,bun,mysql,postgres,sqlite)](https://skillicons.dev)
 
+### Knowledge & Tools
+[![Knowledge & Tools](https://skillicons.dev/icons?i=flutter,dart,r,prisma,docker,git,github,supabase,postman,godot,aws,mongo,firebase,gcp,wordpress)](https://skillicons.dev)
+![Knowledge](https://go-skill-icons.vercel.app/api/icons?i=oracle,zed,googleplayconsole,notion)
+
+### Currently Learning
+[![In Learn](https://skillicons.dev/icons?i=go,cpp,rust)](https://skillicons.dev)
+![In Learn](https://go-skill-icons.vercel.app/api/icons?i=rustrover)
+
+---
+
+### Achievement
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dendik-creation.dendik-creation&left_text=Profile%20Views)
+
+---
+
+### Find Me In
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,html,css,tailwind,bootstrap,py,django,php,laravel,dart,flutter,nodejs,mysql,postgres,git,github,vscode,figma,postman,aws,ai,ps" />
+  <a href="https://dendikcreation.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" height="40" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/dendi-setiawan">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email@setiawandendik0205@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~019a1d14923d5e4999">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=upwork" height="40" alt="Upwork" />
+  </a>
 </div>
-
----
-
-### 📌 Currently Exploring
-
-- 🚀 Golang
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dendik-creation&show_icons=true&theme=radical&hide_border=true" alt="Dendi' GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendik-creation&layout=compact&theme=radical&hide_border=true" alt="Dendi' Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=dendik-creation&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dendik-creation.dendik-creation&left_text=Profile%20Views" />
-</p>
-
----
-
-### 🧱 Latest GitHub Activity
-
-<img src="https://raw.githubusercontent.com/dendik-creation/dendik-creation/output/snake.svg" alt="Snake animation" />
